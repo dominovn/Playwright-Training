@@ -1,23 +1,27 @@
 {
   "name": "playwright-training",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "description": "Playwright E2E Test with AI Capabilities incl MCP",
+  "keywords": [
+    "playwright",
+    "playwright-e2e-tests",
+    "playwright-mcp"
+  ],
+  "homepage": "https://github.com/dominovn/Playwright-Training#readme",
+  "bugs": {
+    "url": "https://github.com/dominovn/Playwright-Training/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dominovn/Playwright-Training.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "Cope Automation",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/dominovn/Playwright-Training/issues"
-  },
-  "homepage": "https://github.com/dominovn/Playwright-Training#readme",
+  "main": "index.js",
+  "scripts": {},
   "devDependencies": {
-    "@playwright/test": "^1.56.1",
-    "@types/node": "^24.10.1"
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
   }
 }
